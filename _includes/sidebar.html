@@ -32,18 +32,18 @@
   </ul>
 </div>
 
-<div class="sidebar-section feed-subscribe">
+<!-- <div class="sidebar-section feed-subscribe">
   <a href="{{ 'feed.xml' | relative_url }}">
     <i class="sidebar-icon fas fa-rss"></i><span>Subscribe</span>
   </a>
-</div>
+</div> -->
 
 {% if site.data.social -%}
   <div class="sidebar-section">
     <ul class="social-icons">
       {% for social in site.data.social -%}
         <li>
-          <a class="social-icon" href="{{ social.url }}"><i class="{{ social.icon | default: 'fas fa-link' }} fa-2x" title="{{ social.title }}"></i></a>
+          <a class="social-icon" href="{{ social.url }}" target="_blank"><i class="{{ social.icon | default: 'fas fa-link' }} fa-2x" title="{{ social.title }}"></i></a>
         </li>
       {%- endfor %}
     </ul>

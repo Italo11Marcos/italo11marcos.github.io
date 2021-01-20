@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mim
-permalink: /sobre/
+permalink: /about/
 ---
 
 ## Sobre mim
