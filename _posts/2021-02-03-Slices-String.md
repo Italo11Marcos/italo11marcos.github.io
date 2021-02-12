@@ -107,8 +107,6 @@ socram olati
 
 Agora que já entendemos o básico, podemos testar a vontade =D.
 
-Os códigos feitos podem ser encontrados clicando no [aqui](https://drive.google.com/file/d/1BjAIZXSXcDPWi6JCb7GqbS3ESmVGp24e/view?usp=sharing).
-
 ## Referências
 * [Documentação python](https://docs.python.org/3/library/functions.html?highlight=slice#slice).
 * [Digital Ocean Community](https://www.digitalocean.com/community/tutorials/how-to-index-and-slice-strings-in-python-3).

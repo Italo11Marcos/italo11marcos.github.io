@@ -65,4 +65,3 @@ output: 'Essa comida é boa'
 
 Essas são apenas algumas formatações que podemos fazer, existem várias outras formas que podem ser estudadas [aqui](https://docs.python.org/pt-br/3/tutorial/inputoutput.html).
 
-Os códigos feitos podem ser encontrados clicando no [aqui](https://drive.google.com/file/d/1xAsqFY6k2oWALTBAs4Hgpa5dJy5Z9VUH/view?usp=sharing).
