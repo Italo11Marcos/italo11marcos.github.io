@@ -3,9 +3,6 @@ layout: page
 title: Portifólio
 permalink: /portifolio/
 ---
-
-# Meus projetos
-
 _______________________________________________________________________________________________________________________
 ## Sistema de Controle de Laboratórios
 
