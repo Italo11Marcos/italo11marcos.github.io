@@ -1,0 +1,46 @@
+---
+layout: post
+title: Split
+categories: python
+tags: [python, split]
+toc: true
+---
+
+# Split
+
+O método `split`, divide uma `string` de acordo com "separador" que você passar. Também recebe um parâmetro, "maxsplit", que é o máximo que o split irá dividir.
+
+
+    #Sintaxe do split()
+    str.split([separador [, maxsplit]])
+
+Ambos os parâmetros são opcionais, vamos ver alguns exemplos:
+
+Digamos que você tem a seguinte string ``letras = 'A B C D E F'``, e quer separar os espaços. Só fazer o seguinte:
+
+    letras = 'A B C D E F'
+    print(letras.split())
+    Output:
+    ['A', 'B', 'C', 'D', 'E', 'F']
+
+No exemplo de cima, não utilizamos nenhum "separador" como parâmetro. A seguir um exemplo com "separador".
+
+    letras = 'A-B-C-D-E-F'
+    print(letras.split('-'))
+    Output:
+    ['A', 'B', 'C', 'D', 'E', 'F']
+
+No exemplo de cima, utilizamos o " - " como parâmetro "separador". Mas, e o "maxsplit", como que fica? Esse parâmetro indica até quantas vezes será separado.
+
+    letras = 'A-B-C-D-E-F'
+    print(letras.split('-', 3))
+    Output:
+    ['A', 'B', 'C', 'D-E-F']
+
+Como pode ser observado, a string foi dividida somente 3 vezes, conforme foi indicado em seu parâmetro "maxsplit".
+
+
+
+
+
+
