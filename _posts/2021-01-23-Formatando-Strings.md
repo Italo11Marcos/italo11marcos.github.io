@@ -6,8 +6,6 @@ tags: [python, strings]
 toc: true
 ---
 
-# Formatando strings
-
 Quando estamos programando, sempre se faz necessário ter um maior controle sobre a formatação da saída, ao invés de simplesmente exibir os valores da forma que eles vêm.
 
 ### Utilizando `f` ou `F`

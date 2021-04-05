@@ -6,7 +6,6 @@ tags: [python, strings, slices]
 toc: true
 ---
 
-# Slices String
 Com python podemos acessar os caracteres de uma string pelo seu index.
 
 ## Entendendo como as strings são indexadas

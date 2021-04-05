@@ -6,8 +6,6 @@ tags: [python, iterables, procedural, lambda, map, filter, reduce, funções]
 toc: true
 ---
 
-# Map, Filter e Reduce
-
 Hoje vamos falar sobre três funções que são paradigmas da programação funcional, ou seja, permitem que você escreva menos e melhor.
 
 ## Map

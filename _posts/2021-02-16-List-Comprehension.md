@@ -6,8 +6,6 @@ tags: [python, lists comprehension, procedural]
 toc: true
 ---
 
-# List Comprehension
-
 `List Comprehension` é uma maneira interessante e bem poderosa de criar uma lista a partir de outra utilizando uma única linha.
 
 Vamos que dizer que precisamos multiplicar os elementos da lista numbers por 2. Podemos fazer da seguinte forma:

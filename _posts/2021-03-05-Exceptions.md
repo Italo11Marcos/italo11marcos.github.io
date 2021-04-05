@@ -6,8 +6,6 @@ tags: [python, exceptions, error]
 toc: true
 ---
 
-# Exceptions
-
 Quando estamos programando, sempre nos deparamos com erros. Esses erros podem ser um `syntax error` ou `exception`. 
 
 `Syntax errors` ocorrem quando escrevemos algo que o parser não consegue identificar. Vejamos o código abaixo:
