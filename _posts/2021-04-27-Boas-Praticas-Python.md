@@ -10,7 +10,7 @@ PEP 8, PEP8 ou PEP-8 é documento sobre boas práticas de como escrever um códi
 
 Ter um código legível é essencial, pois passamos mais tempo lendo e estudando códigos que escrevendo. Muitas vezes lemos o código cinco, seis vezes para corrigirmos somente uma linha. Muitas vezes também, seu código vai ser lido por diversas outras pessoas, e para facilitar o entendimento do mesmo é essencial manter o código legível. Veremos a seguir algumas dicas.
 
-# Nomes de varíaveis
+## Nomes de varíaveis
 Quando começamos a programar, gostamos muito de criar variáveis com letras simples, como "x, y, z", para pouparmos tempo digitando, no entanto, se fizermos isso em um projeto maior, ficará bem confuso.
 
     #Não use l, O ou i como nomes de variávels, pois dependendo da fonte, poderá ser confundido por 0, 1. 
@@ -32,7 +32,7 @@ Quando começamos a programar, gostamos muito de criar variáveis com letras sim
 | Package  | Use palavras com letras minúsculas. Não use nada para separá-las.                                   | mypackage, package      |
 
 
-# Espaços
+## Espaços
 Outra dúvida que sempre temos na hora de escrever o código é como devemos separar as classes, funções, quantos "espaços" devemos utilizar. 
 
 A PEP8 fala que devemos utilizar "dois espaços em branco" para classes e funções:
@@ -69,7 +69,7 @@ Quando uma função for muito grande, é recomendado deixar um "espaço" para ca
         return mean_squares - mean**2
 
 
-# Quebra de linha
+## Quebra de linha
 Outro problema comum que passamos é quando passamos muito paramêtros ou importamos muitas funções e as linhas ficam gigantes.
 
 A PEP8 recomenda a quebra de linha para não ficar muito extenso:
@@ -89,7 +89,7 @@ A PEP8 recomenda a quebra de linha para não ficar muito extenso:
              - variable_three)
 
 
-# Espaços em expressões matemáticas
+## Espaços em expressões matemáticas
 Também costumamos escrever expressões matemáticas quando estamos programando, a sempre bate aquela dúvida se devemos deixar espaços ou não nas expressões.
 
 A PEP 8 recomenda tirar os 'espaços' nas expressões:
@@ -102,7 +102,7 @@ A PEP 8 recomenda tirar os 'espaços' nas expressões:
     x = (a + b) * (c - d)
     if x > y and x % 2 == 1:
 
-# Comparações com True e False
+## Comparações com True e False
 É normal fazermos comparações se alguma variável é ``True`` ou ``False``. Mas não devemos comparar valores booleanos usando ``==``.
 
     #Certo
