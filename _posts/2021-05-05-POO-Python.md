@@ -2,7 +2,7 @@
 layout: post
 title: POO Python - Conceitos básicos
 categories: python
-tags: [python, PEP8]
+tags: [python, POO]
 toc: true
 ---
 
