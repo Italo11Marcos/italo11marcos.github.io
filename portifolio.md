@@ -13,6 +13,15 @@ Desenvolvido com Python e Django.
 
 ![labs](portifolio/labs.png)
 _______________________________________________________________________________________________________________________
+## Sistema de Avaliação de Currículos - (SIAC)
+
+Projeto desenvolvido utlizandos várias libs do python como requests, beautifulsoup4, pandas, numpy, matplotlib, no curso 
+de Sistemas de Informação na Unimontes que tem como objetivo extriar dados dos currículos da plataforma Lattes.
+
+[Github](https://github.com/Italo11Marcos/siac)
+
+![siac](portifolio/siac.png)
+_______________________________________________________________________________________________________________________
 ## Repositório Universitário
 
 Projeto que desenvolvi para servir de base para ser um repositório de artigos, dissertações, monografias, etc. 
